@@ -1,1 +1,1 @@
-export { hello } from './src/hello'
+export { scrape } from './src/scrape'
